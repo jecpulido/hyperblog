@@ -61,7 +61,7 @@ body {
     border-radius: 5px ;
     min-width: 100px;
     min-height: 35px;
-    background: rgb(255, 0, 0);
+    background: rgb(194, 20, 20);
     color: white;
     cursor: pointer;
 }
@@ -70,6 +70,6 @@ body {
     border-radius: 5px ;
     min-width: 100px;
     min-height: 35px;
-    background-color: rgb(112, 5, 5);
+    background-color: rgb(113, 11, 11);
     color: white;
 }
