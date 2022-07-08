@@ -37,3 +37,21 @@ body {
 #post {
     padding: 1em
 }
+
+#seguir{
+    border: 0px;
+    border-radius: 5px ;
+    min-width: 100px;
+    min-height: 25px;
+    background: #33a;
+    color: white;
+    cursor: pointer;
+}
+
+#seguir:hover {
+    border-radius: 5px ;
+    min-width: 100px;
+    min-height: 25px;
+    background-color: rgb(5, 5, 112);
+    color: white;
+}
