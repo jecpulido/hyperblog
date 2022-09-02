@@ -6,4 +6,6 @@ esta es la hitoria de otro desarrollador de tambien 27 años
 
 Master 1
 
+Master 2
+
 Yo soy otra persona que contribuye a este proyectos
